@@ -288,9 +288,9 @@ document.addEventListener('DOMContentLoaded', () => {
       mapsUrl: 'https://www.google.com/maps/search/?api=1&query=MH+ASHA+HEALTH+CENTRE,+A-35,+Royal+Plaza,+Central+Spine,+Vidyadhar+Nagar,+Jaipur,+Jaipur+Nagar+Nigam+Area,+Rajasthan+302039'
     },
     'pratap': {
-      title: 'Mighty Healers – Pain Relief Centre (Pratap Nagar, Sanganer)',
-      embedUrl: 'https://maps.google.com/maps?q=60%2F1+near+Central+Bank+opposite+Khushboo+Chat+Sanganer+Pratap+Nagar+Jaipur+Rajasthan+302021&t=&z=15&ie=UTF8&iwloc=&output=embed',
-      mapsUrl: 'https://www.google.com/maps/search/?api=1&query=60%2F1,+near+Central+Bank,+opposite+Khushboo+Chat,+Sanganer,+Pratap+Nagar,+Jaipur,+Rajasthan+302021'
+      title: 'Mighty Healers – Pain Relief Centre (60/1, near Central Bank, Pratap Nagar • Hours: 8:00 AM – 8:00 PM IST)',
+      embedUrl: 'https://maps.google.com/maps?q=Mighty+Healers,+Pratap+Nagar,+Jaipur&t=&z=16&ie=UTF8&iwloc=&output=embed',
+      mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Mighty+Healers,+60%2F1,+near+Central+Bank,+opposite+Khushboo+Chat,+Pratap+Nagar,+Jaipur'
     }
   };
 
