@@ -227,10 +227,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Branch selection determines destination phone:
       // Vidyadhar Nagar or Home Visit -> 9664271204
-      // Pratap Nagar -> 7014658209
+      // Pratap Nagar -> 9116756929
       let clinicPhone = '919664271204';
       if (branch.includes('Pratap Nagar')) {
-        clinicPhone = '917014658209';
+        clinicPhone = '919116756929';
       }
 
       let waText = `*New Appointment Request - Mighty Healers / MH Asha Health Centre*%0A%0A`;
